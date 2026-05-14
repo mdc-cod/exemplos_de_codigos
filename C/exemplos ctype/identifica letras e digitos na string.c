@@ -10,7 +10,7 @@ int main(){
 
     // identifica letras e números apenas
     if(isalnum(texto[i])==1)
-       printf("%c,", texto[i]); // exibe as letras e números encontrados 
+       printf("%c,", texto[i]); // exibe as letras e digitos encontrados 
 
     }
 
