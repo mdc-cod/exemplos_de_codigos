@@ -15,6 +15,16 @@ int main(){
     printf("letra maiuscula"); 
    }
 
+  char str[]="Exemplo De Uso de isupper";
+  for(int i=0; str[i]!='\0';i++){
+
+     if(isupper(str[i])==1){
+        // exibe letras maiusculas encontradas
+        printf("letras maiusculas: %c", str[i]);
+     }
+     
+  }
+  
  return 0;
   
 }
