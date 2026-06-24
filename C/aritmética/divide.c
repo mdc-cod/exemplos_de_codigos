@@ -10,4 +10,6 @@ int main(){
 
   printf("resultado: %d", divide);
 
+  return 0;
+
 }
