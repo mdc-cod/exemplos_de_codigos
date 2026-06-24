@@ -6,9 +6,10 @@ int main(){
   
   FILE *veiculo = fopen("tipo_do_veiculo.txt","w"); // cria o arquivo 
 
-  fprintf(veiculo, "tipo de veiculo: %s", tipo); // grava o conteúdo formatado no arquivo com o valor da string tipo[]
+  // grava o conteúdo formatado no arquivo com o valor da string tipo[]
+  fprintf(veiculo, "tipo de veiculo: %s", tipo); 
 
-  fclose(veiculo);
+  fclose(veiculo); // fecha o arquivo 
 
   return 0;
 
