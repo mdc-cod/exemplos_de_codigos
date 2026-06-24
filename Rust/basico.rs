@@ -1,6 +1,6 @@
 
 fn main(){
 
- println!("programa simples em Rust.")
+ println!("programa simples em Rust.");
 
 }
