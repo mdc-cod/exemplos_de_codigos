@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <strcat.h>
 
 int main(){
 
