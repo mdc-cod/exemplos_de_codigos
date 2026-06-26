@@ -20,4 +20,6 @@ int main(){
   
   fclose(arquivo); // fecha o arquivo 
 
+  return 0;
+
 }
