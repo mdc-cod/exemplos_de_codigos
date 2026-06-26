@@ -8,4 +8,6 @@ int main(){
 
   fclose(nome); // fecha o arquivo 
 
+  return 0;
+
 }
