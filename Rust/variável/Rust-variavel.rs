@@ -1,11 +1,13 @@
 
 fn main(){
 
-  // por padrão variáveis são imutáveis
-  // não podem ter outros valores uma vez que um valor seja atribuído a ela
+  
 
   let valor1 = 10; 
   println!("valor1: {}", valor1);  
+
+  // por padrão variáveis são imutáveis
+  // não podem ter outros valores uma vez que um valor seja atribuído a ela
 
   // para tornar uma variável mutável, utiliza-se "mut" após "let"
 
