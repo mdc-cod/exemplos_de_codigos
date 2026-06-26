@@ -2,7 +2,7 @@
 
 int main(){
 
- // se mantem enquanto o segundo parâmetro for verdadeiro 
+ // executa enquanto o segundo parâmetro for verdadeiro 
  for(int i=0; i<=100; i++){ 
 
     printf("%d\n", i);
