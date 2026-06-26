@@ -2,7 +2,7 @@
 
 int main(){
 
-  char tipo[]="carro"; // valor a ser gravado 
+  char tipo[]="carro"; // string a ser gravada
   
   FILE *veiculo = fopen("tipo_do_veiculo.txt","w"); // cria o arquivo 
 
