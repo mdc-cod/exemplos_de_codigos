@@ -10,4 +10,6 @@ int main(){
 
    printf("resultado: %d\n", multiplica);
 
+  return 0;
+
 }
