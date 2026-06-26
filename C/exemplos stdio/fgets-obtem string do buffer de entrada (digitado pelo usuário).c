@@ -5,7 +5,7 @@
 int main(){
 
  // matriz de caracteres com 20 de capacidade 
-  char veiculo[20]; // onde a strig obtida será armazenado 
+  char veiculo[20]; // onde a strig obtida será armazenada
 
   printf("tipo de veiculo:\n"); 
 
