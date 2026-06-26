@@ -4,4 +4,6 @@ int main(){
 
   puts("texto a ser exibido");
 
+  return 0;
+
 }
