@@ -2,10 +2,11 @@
 
 int main(){
 
-  int valor_int = 5; // tipo inteiro
-  float valor_float = 5.1; // tipo float
-  double valor_double = 5.1; // tipo double 
-  char caractere = 'a'; // tipo char  
+  // tipos de variaveis 
+  int valor_int = 5;
+  float valor_float = 5.1;
+  double valor_double = 5.1; 
+  char caractere = 'a';
 
   printf("inteiro: %d\n", valor_int);
   printf("float: %f\ndouble: %f\n", valor_float, valor_double);
