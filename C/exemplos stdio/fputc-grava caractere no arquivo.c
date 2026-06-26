@@ -7,4 +7,7 @@ int main(){
   fputc('a', letra); // grava a letra 'a' no arquivo
 
   fclose(letra);// fecha o arquivo 
+
+  return 0;
+
 }
