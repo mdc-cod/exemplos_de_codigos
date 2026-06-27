@@ -8,7 +8,7 @@ int main(){
 
    case 1: 
 
-      printf("dom");
+      printf("domingo");
 
    break;
   
