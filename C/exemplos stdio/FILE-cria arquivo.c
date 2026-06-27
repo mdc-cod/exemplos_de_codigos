@@ -15,7 +15,7 @@ int main(){
 
   // "r" leitura de arquivo
 
-
+  //usar o ponteiro FILE * e fopen() para criar o arquivo 
   FILE *arquivo = fopen("nome_do_arquivo.txt", "w"); //cria arquivo do tipo txt para "w" (write) escrita
   
   // código para escrever no arquivo...
