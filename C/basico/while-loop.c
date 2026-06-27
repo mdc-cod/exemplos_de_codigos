@@ -7,7 +7,7 @@ int main(){
   // enquanto a 'contagem' for menor que 100 o loop se matem
   while(contagem < 100){ 
 
-     contagem++; // acrescenta +1 
+     contagem++; // acrescenta +1 enquanto executar
      printf("%d",contagem); // exibe a contagem 
 
   }
