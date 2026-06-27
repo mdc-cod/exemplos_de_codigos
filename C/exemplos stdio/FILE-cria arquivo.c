@@ -18,6 +18,8 @@ int main(){
 
   FILE *arquivo = fopen("nome_do_arquivo.txt", "w"); //cria arquivo do tipo txt para "w" (write) escrita
   
+  // código para escrever no arquivo...
+
   fclose(arquivo); // fecha o arquivo 
 
   return 0;
