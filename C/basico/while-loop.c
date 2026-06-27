@@ -4,7 +4,7 @@ int main(){
 
   int contagem=1;
 
-  // enquanto o contagem menor que 100 o loop se matem
+  // enquanto a 'contagem' for menor que 100 o loop se matem
   while(contagem < 100){ 
 
      contagem++; // acrescenta +1 
