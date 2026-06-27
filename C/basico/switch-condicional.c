@@ -8,19 +8,19 @@ int main(){
 
    case 1: 
 
-      printf("domingo");
+     printf("domingo");
 
    break;
   
    case 2:
 
-      printf("segunda-feira");
+     printf("segunda-feira");
 
    break;
 
    case 3:
 
-      printf("terca-feira");
+     printf("terca-feira");
 
    break;
 
@@ -32,7 +32,7 @@ int main(){
 
    case 5:
 
-      printf("quinta-feira");
+     printf("quinta-feira");
 
    break;
 
@@ -44,12 +44,16 @@ int main(){
 
    case 7:
 
-    printf("sabado");
+     printf("sabado");
+
+   break;
+
+   default:
+
+     printf("dia da semana invalido");
 
    break;
   
-
-
   }
 
   return 0;
