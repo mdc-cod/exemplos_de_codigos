@@ -15,7 +15,7 @@ int main(){
     printf("letra minuscula");
   }
 
-  char str[]="Exemplo de Uso D islower";
+  char str[]="Exemplo de Uso Do islower";
   for(int i=0;str[i]!='\0';i++){
 
     if(islower(str[i])==1){
