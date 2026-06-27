@@ -11,7 +11,7 @@ int main(){
   // se o arquivo já existir o conteúdo será substituído pelo novo
 
   // "a" arquivo criado para escrita 
-  // se o arquivo já o conteúdo novo será adicionado no final do arquivo
+  // se o arquivo já existir o conteúdo novo será adicionado no final do arquivo
 
   // "r" leitura de arquivo
 
